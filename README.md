@@ -44,25 +44,28 @@ The application is designed as an **industry-oriented weather intelligence platf
 
 ## 🌍 Main Dashboard
 
-![Dashboard Preview](screenshots/dashboard.png)
-
----
-
-## 📊 Weather Analytics
-
-![Analytics](screenshots/analytics.png)
-
----
-
-## 🗺 Live Weather Map
-
-![Map](screenshots/map.png)
+![Dashboard Preview](screenshots/Delhi_1.png)
 
 ---
 
 ## 🌫 AQI Monitoring
 
-![AQI](screenshots/aqi.png)
+![AQI](screenshots/Delhi_2.png)
+
+![AQI](screenshots/Delhi_3.png)
+
+---
+
+## 📊 Weather Analytics
+
+![Analytics](screenshots/Delhi_6.png)
+![Analytics](screenshots/Delhi_7.png)
+---
+
+## 🗺 Live Weather Map
+
+![Map](screenshots/Delhi_8.png)
+
 
 ---
 
@@ -357,7 +360,7 @@ Add screenshots:
 
 # 👨‍💻 Author
 
-## OmRaje Ingale
+## Om Ingale
 
 ### 🌟 Final Year Computer Engineering Student
 ### 🚀 Python | AI | Cloud | Full Stack Enthusiast
@@ -376,9 +379,9 @@ If you like this project:
 
 # 📬 Contact
 
-📧 Email: your_email@gmail.com
+📧 Email: omsingale2607@gmail.com
 
-🌐 GitHub: https://github.com/yourusername
+🌐 GitHub: https://github.com/omi-tech26
 
 ---
 
