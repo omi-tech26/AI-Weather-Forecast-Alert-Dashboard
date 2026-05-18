@@ -1,0 +1,29 @@
+venv/
+.env
+__pycache__/
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+
+# Database Cache
+*.db-journal
+
+# VS Code Settings
+.vscode/
+
+# System Files
+.DS_Store
+
+# Python Compiled Files
+*.pyc
+
+# Streamlit Cache
+.streamlit/
+
+# Outputs
+outputs/weather_map.html
